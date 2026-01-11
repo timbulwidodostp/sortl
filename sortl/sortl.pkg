@@ -1,4 +1,4 @@
-D 'DEA': Data envelopment analysis
+D 'sortl': Sort rotated loadings (pattern matrix) or rotated components created by [MV] rotate Use sortl With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F sortl.ado
+F sortl.hlp
